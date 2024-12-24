@@ -6,7 +6,7 @@
     <title>GuiNotebooks</title>
 </head>
 <body>
-    <a href="notebook-form.php">adcionar notebook</a>
+    <button><a href="notebook-form.php" style="text-decoration: none;">adcionar notebook</a></button>
     <?php require_once 'includes/lojas.php' ?>
     <h1>GuiNotebooks</h1>
     <hr>
